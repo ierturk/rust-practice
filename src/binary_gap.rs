@@ -30,8 +30,8 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_works() {
-        let result = solution(0b001010000100);
-        assert_eq!(result, 4);
+    fn test_binary_gap() {
+        assert_eq!(solution(0b001010000100), 4);
+        assert_eq!(solution(0b000000000), 0);
     }
 }
