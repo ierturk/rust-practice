@@ -5,7 +5,7 @@
 Here are my solutions to the codility lessons in Rust.  You can find the lessons [here](https://app.codility.com/programmers/lessons/).
 
 | Task                                                                                                                          | Solution                                                              |  
-|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|:------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
 | **Lesson 1 - Iterations**                                                                                                     |                                                                       |
 | [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)                                            | [binary_gap.rs](src/iterations/binary_gap.rs)                         |
 | **Lesson 2 - Arrays**                                                                                                         |                                                                       |
