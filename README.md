@@ -32,7 +32,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)             | In-Progress                                                           |
 | **Lesson 7 - Stacks and Queues**                                                                                              |                                                                       |
 | [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)                                        | In-Progress                                                           |
-| [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)                                          | In-Progress                                                           |
+| [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)                                                | In-Progress                                                           |
 | [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)                                          | In-Progress                                                           |
 | [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)                                     | In-Progress                                                           |
 | **Lesson 8 - Leader**                                                                                                         |                                                                       |
