@@ -1,5 +1,4 @@
 pub fn solution(mut a: Vec<i32>) -> i32 {
-    // int solution(vector<int> &A);
 
     let n = a.len();
 

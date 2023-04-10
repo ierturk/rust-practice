@@ -21,7 +21,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)                                 | [max_counters.rs](src/counting_elements/max_counters.rs)              |
 | [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)                           | [missing_integer.rs](src/counting_elements/missing_integer.rs)        |
 | **Lesson 5 - Prefix Sums**                                                                                                    |                                                                       |
-| [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)                                       | In-Progress                                                           |
+| [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)                                       | [passing_cars.rs](src/prefix_sums/passing_cars.rs)                    |
 | [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)                                             | In-Progress                                                           |
 | [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)                          | In-Progress                                                           |
 | [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)                               | In-Progress                                                           |
