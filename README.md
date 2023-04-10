@@ -18,7 +18,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | **Lesson 4 - Counting Elements**                                                                                              |                                                                       |
 | [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)                              | [frog_river_one.rs](src/counting_elements/frog_river_one.rs)          |
 | [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)                                     | [perm_check.rs](src/counting_elements/perm_check.rs)                  |
-| [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)                                 | In-Progress                                                           |
+| [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)                                 | [max_counters.rs](src/counting_elements/max_counters.rs)              |
 | [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)                           | In-Progress                                                           |
 | **Lesson 5 - Prefix Sums**                                                                                                    |                                                                       |
 | [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)                                       | In-Progress                                                           |
