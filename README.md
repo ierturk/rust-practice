@@ -26,7 +26,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)                          | [genomic_range_query.rs](src/prefix_sums/genomic_range_query.rs)      |
 | [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)                               | [min_avg_two_slice.rs](src/prefix_sums/min_avg_two_slice.rs)          |
 | **Lesson 6 - Sorting**                                                                                                        |                                                                       |
-| [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)                                                  | In-Progress                                                           |
+| [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)                                                  | [distinct.rs](src/sorting/distinct.rs)                                |
 | [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)                             | In-Progress                                                           |
 | [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)                                                  | In-Progress                                                           |
 | [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)             | In-Progress                                                           |
