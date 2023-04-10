@@ -68,7 +68,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [MaxNonoverlappingSegments](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)   | In-Progress                                                                    |
 | [TieRopes](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/)                                      | In-Progress                                                                    |
 | **Lesson 17 - Dynamic Programming**                                                                                           |                                                                                |
-| [NumberSolitaire](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)                      | In-Progress                                                                    |
+| [NumberSolitaire](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)                      | [number_solitaire.rs](src/dynamic_programming/number_solitaire.rs)             |
 | [MinAbsSum](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/)                                 | [min_abs_sum.rs](src/dynamic_programming/min_abs_sum.rs)                       |
 
 
