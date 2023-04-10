@@ -20,7 +20,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn frog_river_one() {
+    fn test_frog_river_one() {
         assert_eq!( solution(5, vec![1, 3, 1, 4, 2, 3, 5, 4].as_ref() ), 6 );
     }
 }

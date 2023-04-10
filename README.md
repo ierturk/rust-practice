@@ -17,7 +17,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)                           | [tape_equilibrium.rs](src/time_complexity/tape_equilibrium.rs)        |
 | **Lesson 4 - Counting Elements**                                                                                              |                                                                       |
 | [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)                              | [frog_river_one.rs](src/counting_elements/frog_river_one.rs)          |
-| [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)                                     | In-Progress                                                           |
+| [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)                                     | [perm_check.rs](src/counting_elements/perm_check.rs)                  |
 | [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)                                 | In-Progress                                                           |
 | [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)                           | In-Progress                                                           |
 | **Lesson 5 - Prefix Sums**                                                                                                    |                                                                       |
