@@ -1,5 +1,4 @@
 pub fn solution(a: Vec<i32>) -> i32 {
-    // int solution(vector<int> &A);
 
     let n = a.len() as i32;
     let sum: i32 = a.iter().sum();

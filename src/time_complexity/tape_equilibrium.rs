@@ -7,14 +7,11 @@ pub fn solution(mut a: Vec<i32>) -> i32 {
         *x += acc;
         *x
     });
-    // println!("{:?}", a);
 
     let mut min_diff = i64::MAX;
 
-    let total_sum = a[n-1] as i64;
-
-    for i in a {
-        let diff = ( 2 * (i as i64) - total_sum ).abs();
+    for i in &a {
+        let diff = ( 2 * (*i as i64) - (a[n-1] as i64) ).abs();
         if diff < min_diff {
             min_diff = diff;
         }
