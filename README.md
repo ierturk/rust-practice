@@ -24,7 +24,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)                                       | [passing_cars.rs](src/prefix_sums/passing_cars.rs)                    |
 | [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)                                             | [count_div.rs](src/prefix_sums/count_div.rs)                          |
 | [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)                          | [genomic_range_query.rs](src/prefix_sums/genomic_range_query.rs)      |
-| [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)                               | In-Progress                                                           |
+| [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)                               | [min_avg_two_slice.rs](src/prefix_sums/min_avg_two_slice.rs)          |
 | **Lesson 6 - Sorting**                                                                                                        |                                                                       |
 | [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)                                                  | In-Progress                                                           |
 | [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)                             | In-Progress                                                           |
