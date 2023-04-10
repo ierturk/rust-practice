@@ -1,5 +1,5 @@
 pub fn solution(x: i32, y: i32, d: i32) -> i32 {
-    let num_of_jumps = (( y as f32)-( x as f32) )/ (d as f32);
+    let num_of_jumps = ((y as f32) - (x as f32)) / (d as f32);
     num_of_jumps.ceil() as i32
 }
 

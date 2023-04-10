@@ -1,5 +1,4 @@
 pub fn solution(a: &Vec<u32>) -> u32 {
-
     let n = a.len();
     let mut test_arr = vec![0_u32; n];
 
@@ -29,8 +28,7 @@ mod tests {
 
     #[test]
     fn test_perm_check() {
-        assert_eq!( solution(vec![4, 1, 3, 2].as_ref() ), 1 );
-        assert_eq!( solution(vec![4, 1, 3].as_ref() ), 0 );
-
+        assert_eq!(solution(vec![4, 1, 3, 2].as_ref()), 1);
+        assert_eq!(solution(vec![4, 1, 3].as_ref()), 0);
     }
 }

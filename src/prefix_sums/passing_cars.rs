@@ -2,7 +2,6 @@ struct PassingCars;
 
 impl PassingCars {
     fn solution(&self, a: &Vec<u32>) -> i32 {
-
         let n = a.len();
 
         let cumsum: Vec<u32> = a
@@ -16,7 +15,7 @@ impl PassingCars {
         let mut number_of_passing_car = 0_u32;
         for (i, e) in a.into_iter().enumerate() {
             if *e == 0 {
-                number_of_passing_car += cumsum[n-1] - cumsum[i];
+                number_of_passing_car += cumsum[n - 1] - cumsum[i];
                 if number_of_passing_car > 1000000000 {
                     return -1;
                 }
@@ -27,7 +26,6 @@ impl PassingCars {
     }
 }
 
-
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -35,6 +33,6 @@ mod tests {
     #[test]
     fn test_passing_cars() {
         let passing_cars = PassingCars;
-        assert_eq!( passing_cars.solution(&vec![0, 1, 0, 1, 1] ), 5);
+        assert_eq!(passing_cars.solution(&vec![0, 1, 0, 1, 1]), 5);
     }
 }

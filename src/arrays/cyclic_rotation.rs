@@ -1,8 +1,7 @@
 pub fn solution(arr: Vec<i32>, k: usize) -> Vec<i32> {
-
-    let n:usize = arr.len();
+    let n: usize = arr.len();
     let mut res: Vec<i32> = vec![0; n];
-    let rs = k%n;
+    let rs = k % n;
 
     for i in 0..n {
         res[i] = if i <= rs {
@@ -22,6 +21,5 @@ mod tests {
     fn test_cyclic_rotation() {
         assert_eq!(solution(vec![0, 1, 2, 3, 4], 2), vec![2, 3, 4, 0, 1]);
         assert_eq!(solution(vec![0, 1, 2, 3, 4], 7), vec![2, 3, 4, 0, 1]);
-
     }
 }

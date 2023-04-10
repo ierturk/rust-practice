@@ -1,5 +1,4 @@
 pub fn solution(mut a: Vec<i32>) -> i32 {
-
     let n = a.len();
 
     a.iter_mut().fold(0, |acc, x| {
@@ -10,7 +9,7 @@ pub fn solution(mut a: Vec<i32>) -> i32 {
     let mut min_diff = i64::MAX;
 
     for i in &a {
-        let diff = ( 2 * (*i as i64) - (a[n-1] as i64) ).abs();
+        let diff = (2 * (*i as i64) - (a[n - 1] as i64)).abs();
         if diff < min_diff {
             min_diff = diff;
         }

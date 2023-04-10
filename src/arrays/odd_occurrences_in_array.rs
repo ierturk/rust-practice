@@ -1,5 +1,4 @@
 pub fn solution(arr: &Vec<u32>) -> usize {
-
     const LIMIT: usize = 1_000_000_001;
     let mut test_arr = vec![0_u32; LIMIT];
 
@@ -7,8 +6,8 @@ pub fn solution(arr: &Vec<u32>) -> usize {
         test_arr[*a as usize] += 1;
     }
 
-    for (i , v) in test_arr.into_iter().enumerate() {
-        if v != 0 && v%2 != 0 {
+    for (i, v) in test_arr.into_iter().enumerate() {
+        if v != 0 && v % 2 != 0 {
             return i;
         }
     }
