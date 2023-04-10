@@ -31,7 +31,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)                                                  | [triangle.rs](src/sorting/triangle.rs)                                         |
 | [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)             | [number_of_disc_intersections.rs](src/sorting/number_of_disc_intersections.rs) |
 | **Lesson 7 - Stacks and Queues**                                                                                              |                                                                                |
-| [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)                                        | In-Progress                                                                    |
+| [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)                                        | [brackets.rs](src/stacks_and_queues/brackets.rs)                               |
 | [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)                                                | In-Progress                                                                    |
 | [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)                                          | In-Progress                                                                    |
 | [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)                                     | In-Progress                                                                    |
