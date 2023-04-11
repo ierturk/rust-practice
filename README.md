@@ -57,8 +57,8 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 | [FibFrog](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/)                                        | In-Progress                                                                            |
 | [Ladder](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/ladder/)                                           | In-Progress                                                                            |
 | **Lesson 14 - Binary Search Algorithm**                                                                                       |                                                                                        |
-| [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)                   | In-Progress                                                                            |
-| [NailingPlanks](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)                      | In-Progress                                                                            |
+| [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)                   | [min_max_division.rs](src/binary_search_algorithm/min_max_division.rs)                 |
+| [NailingPlanks](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)                      | [nailing_planks.rs](src/binary_search_algorithm/nailing_planks.rs)                     |
 | **Lesson 15 - Caterpillar Method**                                                                                            |                                                                                        |
 | [AbsDistinct](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)                               | [abs_distinct.rs](src/caterpillar_method/abs_distinct.rs)                              |
 | [CountDistinctSlices](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/)              | [count_distinct_slices.rs](src/caterpillar_method/count_distinct_slices.rs)            |
@@ -74,3 +74,7 @@ Here are my solutions to the codility lessons in Rust.  You can find the lessons
 
 ## License
 This repository is licensed under [MIT](LICENSE).
+
+## Credits, Thanks to...
+* [@markhary](https://github.com/markhary) for [this repository](https://github.com/markhary/codility)
+* [@Behrouz.m](https://github.com/Behrouz-m) for [this repository](https://github.com/Behrouz-m/Codility)
