@@ -2,7 +2,7 @@ struct MissingInteger;
 
 impl MissingInteger {
     fn solution(&self, a: &Vec<i32>) -> u32 {
-        let mut test_arr = vec![false; 1000_000_001];
+        let mut test_arr = vec![false; 1_000_000_001];
 
         for e in a {
             if *e > 0 {
